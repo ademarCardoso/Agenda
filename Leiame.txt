@@ -1,5 +1,4 @@
-A agenda foi desenvolvida por Ademar Cardoso(@teckthor), para fins de estudo sobre sistemas open source
+The agenda was developed by Ademar Cardoso (@teckthor), for purposes of studying open source systems.
 
-/*  Overview  */
+The agenda developed in ShellScript was done in two files, the file "agenda.sh" contains all the source code of the agenda and the file "agenda.txt" works as a small database d agenda, saving the files in a constant way .
 
- A agenda desenvolvida em ShellScript foi feita toda em dois arquivos, o arquivo "agenda.sh" contem todo o codigo fonte da agenda ja o arquivo "agenda.txt" funciona como um pequeno banco de dados d agenda, salvando os arquivos de maneira constante. 
