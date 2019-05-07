@@ -1,2 +1,10 @@
 # Agenda
-Simple contacts agenda made in shell script, made with the intention of learning to use some of the shell script language.
+
+Esta é uma agenda simples, que guarda alguns dados, foi feita em shell script. Com intuito de aprendizado sobre Linux.
+
+Para executá la e simples, basta entrar na pasta do codigo e executar os comandos:
+```
+cd codigo_fonte
+sh agenda.sh
+```
+
